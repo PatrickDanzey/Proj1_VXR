@@ -1,0 +1,4 @@
+repository "A Tear in Space@akiradira10@cloud"
+  path "/"
+    br "/main"
+    co "/main"

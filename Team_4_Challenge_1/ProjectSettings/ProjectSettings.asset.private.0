@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 04c07e4147888424b93396ea0f90d55f
+  productGUID: 4d1744f832da62e4bb17c3ade3d596c6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: A Tear in Space
+  productName: Team_4_Challenge_1
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -769,14 +769,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: A Tear in Space
+  metroPackageName: Team_4_Challenge_1
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: A Tear in Space
+  metroApplicationDescription: Team_4_Challenge_1
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -846,10 +846,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 62a18c6e-2124-4f7c-824e-f70c4fbc6558
+  cloudProjectId: 2532e304-4fc2-46e0-9b1f-594d3e0dee43
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: A Tear in Space
+  projectName: Team_4_Challenge_1
   organizationId: patrickjam3s
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
